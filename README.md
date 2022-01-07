@@ -1,4 +1,4 @@
-Visit page @ (https://oh-be.github.io/Web-Design-Challenge.github.io/)
+Visit page @ (https://oh-be.github.io/Web-Design-Challenge/)
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
