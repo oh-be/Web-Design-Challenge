@@ -1,3 +1,5 @@
+Visit page @ (https://oh-be.github.io/Web-Design-Challenge/)
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
